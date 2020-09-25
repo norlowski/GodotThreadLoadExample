@@ -1,0 +1,83 @@
+[2020.09.24 20:25:09] | [0.979] | INFO  | [root.gd] [] >> new game button pressed
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> in thread new game
+[2020.09.24 20:25:09] | [0.002] | INFO  | [root.gd] [] >> >>>>>>>>>>>>>>>> NEXT SCENE TYPE<<<<<<<<<<<<<<
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.308] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.133] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.004] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> >>>>>>>>>>>>>>>> NEXT SCENE TYPE<<<<<<<<<<<<<<
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> >>>>>>>>>>>>>>>> NEXT SCENE TYPE<<<<<<<<<<<<<<
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> >>>>>>>>>>>>>>>> NEXT SCENE TYPE<<<<<<<<<<<<<<
+[2020.09.24 20:25:09] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:09] | [0.101] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:09] | [0.003] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:09] | [0.003] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.077] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.003] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.003] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.077] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.003] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.08] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.07] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.079] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> >>>>>>>>>>>>>>>> NEXT SCENE TYPE<<<<<<<<<<<<<<
+[2020.09.24 20:25:10] | [0] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.081] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.017] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.082] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.017] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.082] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.017] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.082] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.017] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.005] | INFO  | [root.gd] [] >> instancing node...
+[2020.09.24 20:25:10] | [0.078] | INFO  | [root.gd] [] >> ...node instanced
+[2020.09.24 20:25:10] | [0.017] | INFO  | [root.gd] [] >> child added
+[2020.09.24 20:25:10] | [0.001] | INFO  | [root.gd] [] >> instanced, starting new game
